@@ -1,1 +1,1 @@
-[{"id":"01","title":"My first note","body":"im exhausted"}]
+[{"id":"01","title":"My first note","body":"im exhausted"},{"id":"02","title":"lab class","body":"manifesting A+"}]
